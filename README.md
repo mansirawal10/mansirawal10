@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-👋 Hi, I’m aspiring to be a Full Stack Developer making a career switch from a non-IT background. I started my coding journey by learning HTML, CSS, and JavaScript, and have built multiple hands-on projects to sharpen my skills. I’m also familiar with Git & GitHub for version control and collaboration.
+👋 Hi, I’m aspiring Full Stack Developer making a career switch from a non-IT background. I started my coding journey by learning HTML, CSS, and JavaScript, and have built multiple hands-on projects to sharpen my skills. I’m also familiar with Git & GitHub for version control and collaboration.
 
 * 🌍  I'm based in Gurugram, India
 * ✉️  You can contact me at [mansirawal99@gmail.com](mailto:mansirawal99@gmail.com)
